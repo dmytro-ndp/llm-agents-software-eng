@@ -1,6 +1,6 @@
 # 📄 Стислий переклад огляду: "From Code Foundation Models to Agents and Applications"
 
-[![Status](https://img.shields.io/badge/Статус-Завершено-brightgreen)](./README.md)
+[![Status](https://img.shields.io/badge/Статус-Активний-brightgreen)](./README.md)
 [![Version](https://img.shields.io/badge/Варіант-Стислий-orange)](./README.md)
 
 Це **стислий (конспективний) переклад** на українську мову основних тез статті:

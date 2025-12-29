@@ -1,6 +1,6 @@
 # 🚀 From Code Foundation Models to Agents and Applications
 
-[![Status](https://img.shields.io/badge/Статус-100%25%20Завершено-brightgreen)](./README.md)
+[![Status](https://img.shields.io/badge/Статус-Активний-brightgreen)](./README.md)
 [![Language](https://img.shields.io/badge/Мова-Українська-blue)](./README.md)
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2511.18538v5-red)](https://arxiv.org/abs/2511.18538)
 
@@ -59,7 +59,7 @@
 
 ## 📊 Прогрес виконання
 
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩` **100%** (Всі 10 розділів завершено, технічно розширено та перевірено)
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩` **Завершено** (Всі 10 розділів технічно розширено та перевірено)
 
 ---
 
